@@ -33,7 +33,7 @@ const sections = [
   },
   {
     title: 'Módosítások',
-    content: `Fenntartjuk a jogot az adatvédelmi irányelv módosítására. Az érdemi változásokról az oldalon tájékoztatjuk a látogatókat. Az irányelv jelenlegi verziója 2024. január 1-jétől érvényes.`,
+    content: `Fenntartjuk a jogot az adatvédelmi irányelv módosítására. Az érdemi változásokról az oldalon tájékoztatjuk a látogatókat. Az irányelv jelenlegi verziója 2026.`,
   },
 ]
 
